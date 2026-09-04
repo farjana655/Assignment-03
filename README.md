@@ -164,8 +164,3 @@ df.to_csv('Cleaned_dataset.csv', index=False)
 The complete data cleaning process is available in:
 
 `Assignment-03.ipynb`
-
-## 🎯 Project Goal
-
-The main objective of this assignment was to practice real-world **data cleaning and preprocessing** techniques and transform an inconsistent dataset into a cleaner and more reliable dataset for future analysis and machine learning.
-
