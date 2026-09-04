@@ -169,11 +169,3 @@ The complete data cleaning process is available in:
 
 The main objective of this assignment was to practice real-world **data cleaning and preprocessing** techniques and transform an inconsistent dataset into a cleaner and more reliable dataset for future analysis and machine learning.
 
----
-
-### 👩‍💻 Author
-
-**Farjana Yasmin**
-
-Data Analysis / Python Learning Project
-# Assignment-03
